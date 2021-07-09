@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tyamburg
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning Python, SQL, and C#
+- 📫 How to reach me tyler_amburgey@yahoo.com
